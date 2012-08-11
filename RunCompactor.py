@@ -6,7 +6,7 @@ Hire me.
 This challenge was marked as easy, but I'm a newb so I tried all kinds of things that didnt work,
 This is what I came up with after about an hour :/
 
-Do I extra credit for OO design?
+Do I get extra credit for OO design?
 
 http://www.reddit.com/r/dailyprogrammer/comments/xxbbo/882012_challenge_86_easy_runlength_encoding/
 
